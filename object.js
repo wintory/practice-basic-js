@@ -53,3 +53,5 @@ for (var i = 0; i < 4; i++) {
   var total = total+product[i].price;
   console.log(total);
 }
+
+document.write('<br>------------------------------<br><br>');
